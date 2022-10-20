@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ObinnaSankey
-- 👀 I’m interested in Full stack Web & App with Python as a side favourite
+- 👀 Junior Full stack Web Developer with both PHP/Python For Backend 
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on python related projects
+- 💞️ I’m looking to collaborate on Python related projects
 - 📫 How to reach me udoman59@gmail.com
 
 <!---
